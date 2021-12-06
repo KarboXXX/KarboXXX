@@ -15,7 +15,9 @@ My name is **Renan (ʁɨ.ˈnɐn)**, i'm a 14 year-old boy from Brazil, i speak *
 
 <div align='center'>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KarboXXX&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarboXXX&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KarboXXX&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarboXXX&theme=tokyonight)
 
 </div>
 
