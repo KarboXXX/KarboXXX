@@ -1,4 +1,5 @@
 # Hi There!
+![](https://visitor-badge.laobi.icu/badge?page_id=KarboXXX.KarboXXX)
 ## About.
 My name is **Renan (ʁɨ.ˈnɐn)**, i'm a 14 year-old boy from Brazil, i speak **Portuguese, English, and German.** I currently don't work anywhere and with any projects, and would be glad to join any different project for a platform creation or website, or anything new. I look foward on receiving money for doing what i do. I don't like doing stuff that someone already have done before without any new ideas in it, and i enjoy translating projects to different languages (english, german, etc...). I'm not very active on social medias that make people talk to each other very often, like Facebook or Twitter. I play games like [**osu!**](https://github.com/ppy/osu) and **[Minecraft](https://minecraft.net/).** And i can do some stuff almost advanced with what i know of pentesting, and would be glad to learn about it.
 
@@ -11,6 +12,13 @@ My name is **Renan (ʁɨ.ˈnɐn)**, i'm a 14 year-old boy from Brazil, i speak *
 - Linux Distro: Ubuntu 20.04.3 LTS, 64 Bits. *(thinking about changing to Kali Linux again, or to try Debian or Arch Linux)*.
 
 ## Skills.
+
+<div align='center'>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KarboXXX&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarboXXX&theme=tokyonight)
+
+</div>
+
 - These are the programming languages i know:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -30,7 +38,6 @@ My name is **Renan (ʁɨ.ˈnɐn)**, i'm a 14 year-old boy from Brazil, i speak *
 - These are the Platforms i use:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
 
 <br><br><br><br><div align='center'>
 
