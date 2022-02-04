@@ -1,7 +1,7 @@
 # Hi There!
 ![](https://visitor-badge.laobi.icu/badge?page_id=KarboXXX.KarboXXX)
 ## About.
-My name is **Renan (ʁɨ.ˈnɐn)**, i'm a 14 year-old boy from Brazil, i speak **Portuguese, English, and German.** I currently don't work anywhere and with any projects, and would be glad to join any different project for a platform creation or website, or anything new. I look foward on receiving money for doing what i do. I don't like doing stuff that someone already have done before without any new ideas in it, and i enjoy translating projects to different languages (english, german, etc...). I'm not very active on social medias that make people talk to each other very often, like Facebook or Twitter. I play games like [**osu!**](https://github.com/ppy/osu) and **[Minecraft](https://minecraft.net/).** And i can do some stuff almost advanced with what i know of pentesting, and would be glad to learn about it.
+My name is **Renan (ʁɨ.ˈnɐn)**, i'm from Brazil, i speak **Portuguese, English, and German.** I currently don't work anywhere and with any projects, and would be glad to join any different project for a platform creation or website, or anything new. I look foward on receiving money for doing what i do. I don't like doing stuff that someone already have done before without any new ideas in it, and i enjoy translating projects to different languages (english, german, etc...). I'm not very active on social medias that make people talk to each other very often, like Facebook or Twitter. I play games like [**osu!**](https://github.com/ppy/osu) and **[Minecraft](https://minecraft.net/).** And i can do some stuff almost advanced with what i know of pentesting, and would be glad to learn about it.
 
 ## PC.
 - CPU: Intel i3-6006u @ 2.00Ghz (not overclocked.).
