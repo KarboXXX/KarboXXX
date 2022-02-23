@@ -19,7 +19,7 @@ Meu nome é **Renan (ʁɨ.ˈnɐn)**, morando, e nascido no Brasil, eu falo **Por
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KarboXXX&show_icons=true&theme=vision-friendly-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarboXXX&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarboXXX&theme=vision-friendly-dark&langs-count=7&layout=compact)
 
 </div>
 
