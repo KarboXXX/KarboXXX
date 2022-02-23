@@ -3,7 +3,7 @@
 My name is **Renan (ʁɨ.ˈnɐn)**, i'm from Brazil, i speak **Portuguese, English, and very little about German.** I always have been in love with programming in general since i was 6, my first contact with coding experiences was with Javascript, and since then i've always thought what could be created with the correct tools and development. I also love to cooperate with translating projects to languages i speak, and help with general performance and compatibility to other operating systems.
 
 ## Sobre mim. (PT-BR)
-Meu nome é **Renan (ʁɨ.ˈnɐn)**, morando, e nascido no Brasil, eu falo **Português, Inglês, e bem pouco de Alemão.** Sempre fui apaixonado por programação de modo geral desde meus 6 anos de idade, meu primeiro contato com programação foi com Javascript, e desde então, sempre sonhei com as possibilidades de crianção com as ferramentas e desenvolvimento correto. Também amo trabalhar em traduzir projetos para outros idiomas e ajudar de modo geral com performace e compatibilidade com outros sistemas operacionais.
+Meu nome é **Renan (ʁɨ.ˈnɐn)**, morando, e nascido no Brasil, eu falo **Português, Inglês, e bem pouco de Alemão.** Sempre fui apaixonado por programação de modo geral desde meus 6 anos de idade, meu primeiro contato com programação foi com Javascript, e desde então, sempre sonhei com as possibilidades de criação com as ferramentas e desenvolvimento correto. Também amo trabalhar em traduzir projetos para outros idiomas e ajudar de modo geral com performace e compatibilidade com outros sistemas operacionais.
 
 ## PC.
 - CPU: Intel i3-6006u @ 2.00Ghz.
