@@ -2,10 +2,6 @@
  <a href='https://ubuntu.com/download/desktop'>
   <img src='https://assets.ubuntu.com/v1/ce518a18-CoF-2022_solid+O.svg' width='120px'>
  </a>
- <img src='https://upload.wikimedia.org/wikipedia/commons/3/32/WikiFont_uniE033_-_heart_-_red.svg' width='120px'>
- <a href='https://archlinux.org/download/'>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg' width='120px'>
- </a>
 </div>
 
 <br>
