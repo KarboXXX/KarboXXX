@@ -1,19 +1,14 @@
-# Hi There!
-## About me. (EN-US)
-My name is **Renan (ʁɨ.ˈnɐn)**, i'm from Brazil, i speak **Portuguese, English, and very little about German.** I always have been in love with programming in general since i was 6, my first contact with coding experiences was with Javascript, and since then i've always thought what could be created with the correct tools and development. I also love to cooperate with translating projects to languages i speak, and help with general performance and compatibility to other operating systems.
+<div align='center'>
+ <a href='https://ubuntu.com/download/desktop'>
+  <img src='https://assets.ubuntu.com/v1/ce518a18-CoF-2022_solid+O.svg' width='120px'>
+ </a>
+ <img src='https://upload.wikimedia.org/wikipedia/commons/3/32/WikiFont_uniE033_-_heart_-_red.svg' width='120px'>
+ <a href='https://archlinux.org/download/'>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg' width='120px'>
+ </a>
+</div>
 
-## Sobre mim. (PT-BR)
-Meu nome é **Renan (ʁɨ.ˈnɐn)**, morando, e nascido no Brasil, eu falo **Português, Inglês, e bem pouco de Alemão.** Sempre fui apaixonado por programação de modo geral desde meus 6 anos de idade, meu primeiro contato com programação foi com Javascript, e desde então, sempre sonhei com as possibilidades de criação com as ferramentas e desenvolvimento correto. Também amo trabalhar em traduzir projetos para outros idiomas e ajudar de modo geral com performace e compatibilidade com outros sistemas operacionais.
-
-## PC.
-- CPU: Intel i3-6006u @ 2.00Ghz.
-- GPU: Mesa Intel® HD Graphics 520 (SKL GT2).
-- RAM: 4GB 2100Mhz.
-- Disk: 1TB HD.
-- 1 Monitor 1366x768 16:9.
-- OS: Linux, Ubuntu 20.04 LTS.
-
-## Skills.
+<br>
 
 <div align='center'>
 
