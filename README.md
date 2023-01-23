@@ -2,7 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KarboXXX&show_icons=true&theme=vision-friendly-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarboXXX&theme=vision-friendly-dark&langs-count=7&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarboXXX&theme=vision-friendly-dark&langs-count=7)
 
 [![CodeFactor backosu](https://www.codefactor.io/repository/github/karboxxx/backosu/badge)](https://www.codefactor.io/repository/github/karboxxx/backosu) [![CodeFactor python-media](https://www.codefactor.io/repository/github/karboxxx/python-media/badge)](https://www.codefactor.io/repository/github/karboxxx/python-media)
 </div>
