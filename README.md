@@ -1,10 +1,12 @@
-<div align='center'>
+<h1>Hi, I'm Renan Giuliasse.</h1>
+<div align="center" class="flex-container">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KarboXXX&show_icons=true&theme=vision-friendly-dark)
+<div><img align="left" src="https://github.com/KarboXXX/KarboXXX/blob/main/IMG_20230107_145237_876.jpg" width=300 height=300/></div><div><img src="https://github-readme-stats.vercel.app/api?username=KarboXXX&show_icons=true&theme=vision-friendly-dark"/><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarboXXX&theme=vision-friendly-dark&langs-count=7"/></div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarboXXX&theme=vision-friendly-dark&langs-count=7)
+ <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KarboXXX&show_icons=true&theme=vision-friendly-dark) -->
+ <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarboXXX&theme=vision-friendly-dark&langs-count=7) -->
 
-[![CodeFactor backosu](https://www.codefactor.io/repository/github/karboxxx/backosu/badge)](https://www.codefactor.io/repository/github/karboxxx/backosu) [![CodeFactor python-media](https://www.codefactor.io/repository/github/karboxxx/python-media/badge)](https://www.codefactor.io/repository/github/karboxxx/python-media)
+
 </div>
 
 - Programming Languages | Linguagens:
