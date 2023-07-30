@@ -1,7 +1,57 @@
-<h1>Hi, I'm Renan Giuliasse.</h1>
+# Hi, I'm Renan Giuliasse.
+
+```c++
+#include <iostream>
+#include <string>
+
+class Renan {
+    public:
+        std::string languages[5] = {
+            "C++", "Python", "Java", "Javascript", "Bash"
+        };
+        std::string name = "Renan";
+        int age = 16;
+};
+
+int main() {
+    Renan renan;
+    std::string languages;
+    
+    for (int i=0; i<5; i++) {
+        if (i != 4) languages += renan.languages[i] + ", ";
+        else languages += "& " + renan.languages[i] + ".";
+    }
+    
+    printf( "%s is %d, and he knows %s", 
+        renan.name.c_str(), renan.age, languages.c_str() );
+    
+    return 0;
+}
+```
+```js
+class Renan {
+	constructor() {
+    	this.name = "Renan";
+        this.age = 16;
+        this.languages = [
+        	"C++", "Python", "Java", "Javascript", "Bash"
+        ];
+    }
+}
+
+const renan = new Renan();
+var languages = "";
+for (let i=0; i<renan.languages.length; i++) {
+    if (i!=(renan.languages.length - 1)) languages += renan.languages[i] + ", ";
+    else languages += "& " + renan.languages[i] + ".";
+}
+
+console.log(languages);
+```
+
 <div align="center" class="flex-container">
 
-<div><img align="left" src="https://github.com/KarboXXX/KarboXXX/blob/main/IMG_20230107_145237_876.jpg" width=300 height=300/></div><div><img src="https://github-readme-stats.vercel.app/api?username=KarboXXX&show_icons=true&theme=vision-friendly-dark"/><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarboXXX&theme=vision-friendly-dark&langs-count=7"/></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=KarboXXX&show_icons=true&theme=vision-friendly-dark"/><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarboXXX&theme=vision-friendly-dark&langs-count=7"/></div>
 
  <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KarboXXX&show_icons=true&theme=vision-friendly-dark) -->
  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarboXXX&theme=vision-friendly-dark&langs-count=7) -->
