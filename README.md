@@ -6,7 +6,7 @@
 
 class Renan {
     public:
-        std::string languages[5] = {
+        std::string languages[8] = {
             "C++", "Python", "Java", "Javascript", "Bash", "Typescript", "Lua", "Rust"
         };
         std::string name = "Renan";
@@ -17,8 +17,8 @@ int main() {
     Renan renan;
     std::string languages;
     
-    for (int i=0; i<5; i++) {
-        if (i != 4) languages += renan.languages[i] + ", ";
+    for (int i=0; i<8; i++) {
+        if (i != 7) languages += renan.languages[i] + ", ";
         else languages += "& " + renan.languages[i] + ".";
     }
     
