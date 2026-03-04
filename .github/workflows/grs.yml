@@ -2,7 +2,9 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "0 6 * * *"
+    - cron: "0 14 * * *"
+    - cron: "0 20 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,9 +17,9 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&show_icons=true&layout=compact&langs_count=6
+          options: username=${{ github.repository_owner }}&show_icons=true&layout=compact&langs_count=6&theme=dracula&hide_border=true
           path: profile/langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
 
       - name: Commit cards
         run: |
